@@ -20,21 +20,6 @@ The infrastructure includes:
 ## Architecture
 <img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/82a94e7f-b726-4cc9-b0a3-dcef39eeb612" />
 
-```text
-Internet
-      │
-      ▼
-Application Load Balancer
-      │
- ┌────┴────┐
- │         │
-EC2      EC2
- │         │
- └────┬────┘
-      │
-Amazon RDS
-```
-
 ## AWS Services Used
 
 - Amazon VPC

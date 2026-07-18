@@ -1,8 +1,8 @@
-# AWS-Three-Tier-E-Commerce-Web-Application
+# AWS-Multi-Tier-E-Commerce-Web-Application
 
 ## Overview
 
-This project demonstrates the deployment of a highly available, secure, and scalable three-tier web application architecture on AWS.
+This project demonstrates the deployment of a highly available, secure, and scalable multi-tier web application architecture on AWS.
 
 The infrastructure includes:
 

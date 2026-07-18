@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the deployment of a highly available, secure, and scalable 3-tier web application architecture on AWS.
+This project demonstrates the deployment of a highly available, secure, and scalable three-tier web application architecture on AWS.
 
 The infrastructure includes:
 

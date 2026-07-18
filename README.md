@@ -1,1 +1,0 @@
-# Multi-Tier-AWS-Architecture
